@@ -1,6 +1,6 @@
 # pjsip-opus-codec
 
-The aim of this repository is enabling only opus codec for the ojsip - pjproject.
+The aim of this repository is enabling only opus codec for the pjsip - pjproject.
 
 It is tested on both Windows Visual Studio 2022 and Ubuntu 22.04 LTS
 
